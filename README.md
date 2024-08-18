@@ -1,4 +1,4 @@
-# CS122B Fall2022 Team 45
+# Fablix - Movie App
 
 ### Team member:
 
